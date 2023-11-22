@@ -1,0 +1,357 @@
+﻿++Solution 'Project5' ‎(7 of 7 projects)
+i:{00000000-0000-0000-0000-000000000000}:Project5.sln
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++Project5.Domain
+i:{314e9954-b5c1-438e-82bb-3f2acd3968de}:Project5.Domain
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.domain\bin\debug\net6.0\project5.domain.dll
+++Dependencies
+i:{b9363d0e-b29b-4c58-87bd-685bd90afcc2}:>492
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:>493
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:>494
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:>686
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:>497
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:>495
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:>496
+++Common
+i:{b9363d0e-b29b-4c58-87bd-685bd90afcc2}:d:\users\junxian428\source\repos\project5\project5\src\project5.domain\common\
+++AuditableEntity.cs
+i:{b9363d0e-b29b-4c58-87bd-685bd90afcc2}:d:\users\junxian428\source\repos\project5\project5\src\project5.domain\common\auditableentity.cs
+++Entities
+i:{b9363d0e-b29b-4c58-87bd-685bd90afcc2}:d:\users\junxian428\source\repos\project5\project5\src\project5.domain\entities\
+++Book.cs
+i:{b9363d0e-b29b-4c58-87bd-685bd90afcc2}:d:\users\junxian428\source\repos\project5\project5\src\project5.domain\entities\book.cs
+++Person.cs
+i:{b9363d0e-b29b-4c58-87bd-685bd90afcc2}:d:\users\junxian428\source\repos\project5\project5\src\project5.domain\entities\person.cs
+++Analyzers
+i:{b9363d0e-b29b-4c58-87bd-685bd90afcc2}:analyzers
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:analyzers
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:analyzers
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:analyzers
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:analyzers
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:analyzers
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:analyzers
+++Frameworks
+i:{b9363d0e-b29b-4c58-87bd-685bd90afcc2}:frameworks
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:frameworks
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:frameworks
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:frameworks
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:frameworks
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:frameworks
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:frameworks
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{b9363d0e-b29b-4c58-87bd-685bd90afcc2}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{b9363d0e-b29b-4c58-87bd-685bd90afcc2}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{b9363d0e-b29b-4c58-87bd-685bd90afcc2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{b9363d0e-b29b-4c58-87bd-685bd90afcc2}:d:\users\junxian428\source\repos\project5\project5\src\project5.domain\microsoft.netcore.app
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\microsoft.netcore.app
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\microsoft.netcore.app
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\microsoft.netcore.app
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:d:\users\junxian428\source\repos\project5\project5\tests\project5.application.tests\microsoft.netcore.app
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:d:\users\junxian428\source\repos\project5\project5\tests\project5.infrastructure.tests\microsoft.netcore.app
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:d:\users\junxian428\source\repos\project5\project5\tests\project5.api.tests\microsoft.netcore.app
+++Project5.Application
+i:{314e9954-b5c1-438e-82bb-3f2acd3968de}:Project5.Application
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\project5.application.csproj
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\bin\debug\net6.0\project5.application.dll
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\bin\debug\net6.0\project5.application.dll
+++Endpoints
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\
+++Books
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\books\
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\persistence\dataservices\books\
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\dataservices\books\
+++Commands
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\books\commands\
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\people\commands\
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\persistence\dataservices\books\commands\
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\persistence\dataservices\people\commands\
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\dataservices\books\commands\
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\dataservices\people\commands\
+++AddBookCommand.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\books\commands\addbookcommand.cs
+++Queries
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\books\queries\
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\people\queries\
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\persistence\dataservices\books\queries\
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\persistence\dataservices\people\queries\
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\dataservices\books\queries\
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\dataservices\people\queries\
+++BookQuery.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\books\queries\bookquery.cs
+++BookViewModel.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\books\bookviewmodel.cs
+++People
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\people\
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\persistence\dataservices\people\
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\dataservices\people\
+++AddPersonCommand.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\people\commands\addpersoncommand.cs
+++AddPersonCommandHandler.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\people\commands\addpersoncommandhandler.cs
+++AddPersonCommandValidator.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\people\commands\addpersoncommandvalidator.cs
+++PeopleQuery.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\people\queries\peoplequery.cs
+++PeopleQueryHandler.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\people\queries\peoplequeryhandler.cs
+++PersonViewModel.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\people\personviewmodel.cs
+++Interfaces
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\
+++Persistence
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\persistence\
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\
+++DataServices
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\persistence\dataservices\
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\dataservices\
+++IAddPersonDataService.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\persistence\dataservices\people\commands\iaddpersondataservice.cs
+++IGetPeopleDataService.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\persistence\dataservices\people\queries\igetpeopledataservice.cs
+++IApplicationDbContext.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\persistence\iapplicationdbcontext.cs
+++Services
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\services\
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\services\
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\services\
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:d:\users\junxian428\source\repos\project5\project5\tests\project5.api.tests\services\
+++IDateTimeService.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\services\idatetimeservice.cs
+++ILoggerService.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\services\iloggerservice.cs
+++IPrincipalService.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\services\iprincipalservice.cs
+++IRequestValidator.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\irequestvalidator.cs
+++Mapping
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\mapping\
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:d:\users\junxian428\source\repos\project5\project5\tests\project5.application.tests\mapping\
+++BooksProfile.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\mapping\booksprofile.cs
+++PeopleProfile.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\mapping\peopleprofile.cs
+++Models
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\models\
+++Enumerations
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\models\enumerations\
+++EndpointResultStatus.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\models\enumerations\endpointresultstatus.cs
+++EndpointResult.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\models\endpointresult.cs
+++ViewModels
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\viewmodels\
+++.gitkeep
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\viewmodels\.gitkeep
+++DependencyInjection.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\dependencyinjection.cs
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\dependencyinjection.cs
+++RequestValidator.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\requestvalidator.cs
+++Packages
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:packages
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:packages
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:packages
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:packages
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:packages
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:packages
+++Projects
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:projects
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:projects
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:projects
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:projects
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:projects
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:projects
+++Microsoft.AspNetCore.App.Analyzers
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:c:\users\junxian428\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:c:\users\junxian428\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:c:\users\junxian428\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:c:\users\junxian428\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:c:\users\junxian428\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:c:\users\junxian428\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:c:\users\junxian428\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:c:\users\junxian428\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:c:\users\junxian428\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:c:\users\junxian428\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.1)
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:>754
+++FluentValidation.AspNetCore (10.3.4)
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:>760
+++MediatR.Extensions.Microsoft.DependencyInjection (9.0.0)
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:>764
+++Microsoft.EntityFrameworkCore (6.0.0)
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:>751
+++Microsoft.Extensions.Configuration.Abstractions (6.0.0)
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:>757
+++Project5.Infrastructure
+i:{314e9954-b5c1-438e-82bb-3f2acd3968de}:Project5.Infrastructure
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\bin\debug\net6.0\project5.infrastructure.dll
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\bin\debug\net6.0\project5.infrastructure.dll
+++Configuration
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\configuration\
+++PersonConfiguration.cs
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\configuration\personconfiguration.cs
+++AddBookDataService.cs
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\dataservices\books\commands\addbookdataservice.cs
+++GetBookDataService.cs
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\dataservices\books\queries\getbookdataservice.cs
+++AddPersonDataService.cs
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\dataservices\people\commands\addpersondataservice.cs
+++GetPeopleDataService.cs
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\dataservices\people\queries\getpeopledataservice.cs
+++ApplicationDbContext.cs
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\applicationdbcontext.cs
+++SeedData.cs
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\seeddata.cs
+++DateTimeService.cs
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\services\datetimeservice.cs
+++LoggerService.cs
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\services\loggerservice.cs
+++Microsoft.Extensions.Configuration.Abstractions (7.0.0)
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:>702
+++Microsoft.Extensions.Logging.Abstractions (7.0.0)
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:>701
+++Pomelo.EntityFrameworkCore.MySql (7.0.0)
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:>703
+++Project5.Api
+i:{314e9954-b5c1-438e-82bb-3f2acd3968de}:Project5.Api
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\bin\debug\net6.0\project5.api.dll
+++Connected Services 
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:>687
+++Properties
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\properties\
+++launchSettings.json
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\properties\launchsettings.json
+++Controllers
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\controllers\
+++BookController.cs
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\controllers\bookcontroller.cs
+++PeopleController.cs
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\controllers\peoplecontroller.cs
+++Exceptions
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\exceptions\
+++MissingClaimsPrincipalException.cs
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\exceptions\missingclaimsprincipalexception.cs
+++Extensions
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\extensions\
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:d:\users\junxian428\source\repos\project5\project5\tests\project5.api.tests\extensions\
+++EndpointResultExtensions.cs
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\extensions\endpointresultextensions.cs
+++PrincipalService.cs
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\services\principalservice.cs
+++appsettings.json
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\appsettings.json
+++appsettings.Development.json
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\appsettings.development.json
+++Program.cs
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\program.cs
+++Startup.cs
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\startup.cs
+++No service dependencies discovered
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:>688
+++Microsoft.AspNetCore.Analyzers
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:d:\users\junxian428\source\repos\project5\project5\src\project5.api\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Diagnostics.HealthChecks (2.2.0)
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:>782
+++Microsoft.AspNetCore.Mvc.Versioning (5.0.0)
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:>779
+++Microsoft.EntityFrameworkCore.Design (6.0.0)
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:>780
+++Swashbuckle.AspNetCore (6.2.3)
+i:{fcdf0f48-4a89-4475-8149-e0a18b35611d}:>781
+++tests
+i:{00000000-0000-0000-0000-000000000000}:tests
+++Project5.Application.Tests
+i:{7bb643d4-45a4-46d1-beef-f5a34c74b240}:Project5.Application.Tests
+++PeopleProfileTests.cs
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:d:\users\junxian428\source\repos\project5\project5\tests\project5.application.tests\mapping\peopleprofiletests.cs
+++xunit.analyzers
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:c:\users\junxian428\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:c:\users\junxian428\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:c:\users\junxian428\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++coverlet.collector (3.1.0)
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:>766
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:>801
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:>770
+++Microsoft.NET.Test.Sdk (17.0.0)
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:>755
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:>798
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:>752
+++xunit (2.4.1)
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:>758
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:>799
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:>759
+++xunit.runner.visualstudio (2.4.3)
+i:{47dcb524-5652-4c14-abcc-86c435e10b58}:>762
+i:{be7d2d04-8011-43e4-8b08-c16adab2f3d6}:>800
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:>763
+++Project5.Infrastructure.Tests
+i:{7bb643d4-45a4-46d1-beef-f5a34c74b240}:Project5.Infrastructure.Tests
+++Project5.Api.Tests
+i:{7bb643d4-45a4-46d1-beef-f5a34c74b240}:Project5.Api.Tests
+++EndpointResultExtensionsTests.cs
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:d:\users\junxian428\source\repos\project5\project5\tests\project5.api.tests\extensions\endpointresultextensionstests.cs
+++PrincipalServiceTests.cs
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:d:\users\junxian428\source\repos\project5\project5\tests\project5.api.tests\services\principalservicetests.cs
+++FluentAssertions (6.4.0)
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:>756
+++Moq (4.16.1)
+i:{de7a08a9-77f8-4e29-a2e0-f1dac7ce1dc7}:>767
+++IAddBookDataService.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\persistence\dataservices\books\commands\iaddbookdataservice.cs
+++IGetBookDataService.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\interfaces\persistence\dataservices\books\queries\igetbookdataservice.cs
+++BooksConfiguration.cs
+i:{2d80faa0-8be5-42a8-839d-c25ee475dce9}:d:\users\junxian428\source\repos\project5\project5\src\project5.infrastructure\persistence\configuration\booksconfiguration.cs
+++AddBookCommandHandler.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\books\commands\addbookcommandhandler.cs
+++BookQueryHandler.cs
+i:{e603ec71-4ca7-4e85-9d43-b3ef7cbeee6f}:d:\users\junxian428\source\repos\project5\project5\src\project5.application\endpoints\books\queries\bookqueryhandler.cs
